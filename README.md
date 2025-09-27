@@ -1,2 +1,2 @@
 # bootstraping-IW
-https://gomes-hma.github.io/BT1/
+https://gomes-hma.github.io/BT1
