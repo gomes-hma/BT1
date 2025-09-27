@@ -71,22 +71,21 @@ padding-left: 8px;
 }
 
 .kk22{
-    width: 40%;
     background-color: #032c2c;
-    align-items: right;
     border: solid black 4px;
     border-radius: 6px;
-    justify-content: right;
+   width: 100%;
+   max-width: 100%;
 }
 
 .sbrm{
    text-align: justify;
-   margin-left: 0;
-   width: 70%;
-   padding-top:10px;
+   padding:10px;
    background-color: black;
    color: white;
    border-radius: 8px;
+   margin: 0;
+   width: auto;
 }
 
 .hgcd1{
@@ -117,4 +116,10 @@ border: solid 2px black;
 .hv:hover{
      transform: translateY(-5px); 
      box-shadow: 0 12px 25px rgba(0,0,0,0.4);
+}
+
+.szc{
+    max-width: 300px;
+    justify-content: center;
+    width: 100%;
 }
