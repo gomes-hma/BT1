@@ -1,0 +1,120 @@
+.logo1{
+width: 8%;
+margin: 0;
+box-shadow: none;
+transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.logo1:hover{
+    transform: scale(1.15);
+}
+
+.fonte {
+    font-size:150% ;
+}
+
+.eteco{
+    padding:10px;
+    width:70%;
+    border-radius: 15px;
+}
+
+.aks{
+    color: #121619 ;
+    background-color: #032c2c;
+}
+
+.aks2{
+    color: #121619;
+    background-color: #368f8b;
+
+}
+
+body {
+    background-color: #368f8b;
+}
+
+.lb{
+    color: white;
+
+}
+
+.imgl{
+    width: 100%;
+    border-radius: 10px;
+    padding: 4px;
+}
+
+.pd{
+    padding-top: 6px;
+}
+
+.br{
+    border-radius:8px ;
+}
+
+.algm{
+    position: sticky;
+    top: 0;
+}
+
+.pdt{
+    padding-top: 65px;
+}
+
+.z-1000 {
+    z-index: 1000;
+}
+
+.pdl8{
+padding-left: 8px;
+}
+
+.kk22{
+    width: 40%;
+    background-color: #032c2c;
+    align-items: right;
+    border: solid black 4px;
+    border-radius: 6px;
+    justify-content: right;
+}
+
+.sbrm{
+   text-align: justify;
+   margin-left: 0;
+   width: 70%;
+   padding-top:10px;
+   background-color: black;
+   color: white;
+   border-radius: 8px;
+}
+
+.hgcd1{
+    height: 70%;
+}
+
+.divisor {
+
+  height: 10px;
+  border: none;
+  border-radius: 5px;
+  background: radial-gradient(circle, black 20%, #368f8b 100%, black 80%);
+  margin: 30px 0;
+}
+
+.preto{
+    background-color: black;
+    border-radius: 0 0 2px 2px;
+    color: white;
+    
+}
+
+.hv{
+transition: transform 0.3s, box-shadow 0.3s;
+border: solid 2px black;
+}
+
+.hv:hover{
+     transform: translateY(-5px); 
+     box-shadow: 0 12px 25px rgba(0,0,0,0.4);
+}
